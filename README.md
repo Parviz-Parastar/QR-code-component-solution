@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 #### Screenshot-desktop
 ![Screenshot-desktop](https://github.com/Parviz-Parastar/QR-code-component-solution/blob/main/Screenshot/Screenshot-desktop.png?raw=true)
 ***
-### Screenshot-mobile
+#### Screenshot-mobile
   ![Screenshot-mobile](https://github.com/Parviz-Parastar/QR-code-component-solution/blob/main/Screenshot/Screenshot-mobile.png?raw=true)
 
 
