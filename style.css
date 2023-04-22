@@ -5,54 +5,50 @@
     box-sizing: border-box;
 }
 
-body {
-    background-color: hsl(212, 45%, 89%);
-}
-
 img {
     max-width: 100%;
 }
 
-.container {
+body {
+    min-height: 100vh;
     display: flex;
-    width: 20rem;
-    border-radius: 20px;
-    margin: 5vh auto;
+    background-color: hsl(212, 45%, 89%);
     text-align: center;
-    padding: 10px;
     justify-content: center;
     flex-direction: column;
-    background-color: hsl(0, 0%, 100%);
+    line-height: 1.25;
+    padding: 1.25rem;
 }
 
 .QR-code {
+    width: 20rem;
+    border-radius: 1.25rem;
+    margin: 0 auto 1.4rem;
     text-align: center;
-    padding: 5px;
+    padding: 1rem;
+    background-color: hsl(0, 0%, 100%);
 }
 
-/*display:fleex , flex-direction:column*/
+
 .f-d-col {
     display: flex;
     flex-direction: column;
 }
 
 .QR-code img {
-    border-radius: 10px;
-    margin-bottom: 20px;
+    border-radius: 0.625rem;
+    margin-bottom: 1.25rem;
 }
 
-.QR-code h3 {
-    margin-bottom: 20px;
-    font-weight: 700;
-    padding: 0 15px;
-    line-height: 25px;
-    font-size: 20px;
+.QR-code h1 {
+    margin-bottom: 1.25rem;
+    padding: 0 1rem;
+    font-size: 1.4rem;
     color: hsl(218, 44%, 22%);
 }
 
 .QR-code p {
     font-size: 15px;
-    font-weight: 400;
     text-align: center;
     padding: 0 13px;
     margin-bottom: 30px;
