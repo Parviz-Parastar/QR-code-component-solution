@@ -50,4 +50,5 @@ I am working with standard screen sizes of different devices.
 - Twitter - [@ParastarParviz](https://www.twitter.com/ParastarParviz)
 
 ## Acknowledgments
-Many thanks to [frontend mentor](https://www.frontendmentor.io) site management for their valuable services for all front ends in the world.
+- Many thanks to [frontend mentor](https://www.frontendmentor.io) site management for their valuable services for all front ends in the world.
+- Thanks to my dear friend [@fernandolapaz](https://www.frontendmentor.io/profile/fernandolapaz) who sent me a good feedback on the frontend mentor site, so that I could write my codes more fundamentally.
